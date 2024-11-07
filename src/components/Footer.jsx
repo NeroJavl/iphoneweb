@@ -7,18 +7,18 @@ const Footer = () => {
       <div className="screen-max-width">
         <div>
           <p className="font-semibold text-gray text-xs">
-            More ways to shop: {' '}
+            Encuentranos en: {' '}
             <span className="underline text-blue cursor-pointer">
-            Find an Apple Store {' '}
+            Sabogal {' '}
             </span>
-            or {' '}
+            y {' '}
             <span className="underline text-blue cursor-pointer">
-            other retailer
+            Dos de Mayo
             </span>{' '}
-            near you.
+            iService Cajamarca.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            O llama al 51-914 595 625 
           </p>
         </div>
 

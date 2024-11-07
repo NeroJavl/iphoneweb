@@ -37,11 +37,11 @@ const HowItWorks = () => {
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
             Aqui en iService Cajamarca
-            <br /> Te vendemos telefonos alta GAMA exclusivamente para Games
+            <br /> 
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+          Te vendemos telefonos alta GAMA exclusivamente para Games
           </p>
         </div>
 
