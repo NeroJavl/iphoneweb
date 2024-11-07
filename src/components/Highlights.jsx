@@ -22,10 +22,10 @@ useGSAP(() => {
         </h2>
         <div className="flex flex-wrap items-end gap-5">
           <p className="link">
-             <img src={watchImg} alt="watch" className="ml-2"/>
+             
           </p>
           <p className="link">
-             <img src={rightImg} alt="right" className="ml-2"/>
+             
           </p>
         </div>
       </div>
