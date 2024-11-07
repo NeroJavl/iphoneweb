@@ -10,8 +10,7 @@ const Navbar = () => {
           {navLists.map((nav, i) => ( <li key={nav} className="px-5 text-sm cursor-pointer text-gray hover:text-white transition-all"> {nav} </li>))}
         </ul>
         <div className="flex item-baseline gap-7 max-sm:justify-end max-sm:flex-1">
-        <img src={searchImg} alt="search" width={18} height={18} />
-        <img src={bagImg} alt="bag" width={18} height={18} />
+        
         </div>
       </nav>
     </header>
