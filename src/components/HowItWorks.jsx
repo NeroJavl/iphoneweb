@@ -36,8 +36,8 @@ const HowItWorks = () => {
 
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
-            A17 Pro chip.
-            <br /> A monster win for gaming.
+            Aqui en iService Cajamarca
+            <br /> Te vendemos telefonos alta GAMA exclusivamente para Games
           </h2>
 
           <p className="hiw-subtitle">
@@ -72,11 +72,11 @@ const HowItWorks = () => {
                   </p>
 
                   <p className="hiw-text g_fadeIn">
-                   Mobile {' '}
+                   Cotiza {' '}
                     <span className="text-white">
-                      games will look and feel so immersive
+                      tú telefono en forma de Pago,
                     </span>,
-                     with incredibly detailed environments and characters.
+                     solo renovamos con telefonos iPhone.
                   </p>
                 </div>
               
