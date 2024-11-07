@@ -13,7 +13,7 @@ import { animateWithGsap, animateWithGsapTimeline } from "../utils/animations";
 const Model = () => {
   const [size, setSize] = useState('small');
   const [model, setModel] = useState({
-    title: 'iPhone 15 Pro in Natural Titanium',
+    title: 'iPhone 15 Pro en Titanio Natural',
     color: ['#8F8A81', '#FFE7B9', '#6F6C64'],
     img: yellowImg,
   })
@@ -56,8 +56,8 @@ const Model = () => {
     <section className="common-padding">
       <div className="screen-max-width">
         <h2 id="heading" className="section-heading">
-          Take a closer look.
-          <p id="heading" className="font-normal text-xl">Drag left and right for a 360&deg; view.</p>
+          Echa un vistazo más de cerca.
+          <p id="heading" className="font-normal text-xl">Arrastre hacia la izquierda y hacia la derecha para una vista de 360°.&deg; </p>
         </h2>
         
         

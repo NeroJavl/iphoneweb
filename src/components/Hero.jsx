@@ -42,8 +42,8 @@ const Hero = () => {
         id="cta"
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
-        <a href="#highlights" className="btn">Buy</a>
-        <p className="font-normal text-xl">From ₹3329/month or ₹79900.00</p>
+        <a href="https://api.whatsapp.com/send/?phone=51914595625&text=PAGO+MODIFICACION%2C+ESTE+ES+MI+CODIGO%3A&type=phone_number&app_absent=0" className="btn">Adquiero YA!</a>
+        <p className="font-normal text-xl">Pide tú catalogo con tus promociones</p>
       </div>
     </section>
   )
